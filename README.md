@@ -25,20 +25,20 @@ Unzip and extract "ab.bin" from the downloaded file. Add it to VirusTotal for ma
 <img src="https://i.imgur.com/eFfxzpl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enter your "ab.bin" file to MD5 AND SHA Checksum Utility. Copy MD5 and document it into your notepad: <br/>
+<img src="https://i.imgur.com/iSW3bgT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="blob:https://imgur.com/6274fa70-4e2e-4b31-839f-f6af880208b3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Input Mark's IP address in the endpoint security interface and initiate containment to isolate his machine for investigation. This ensures effective mitigation of security risks and creates a secure environment for analysis:  <br/>
+<img src="https://i.imgur.com/tzUIfGD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+In log management, search Mark's IP address. Note the two websites and their IP addresses found. Copy and document this in your notepad for analysis:  <br/>
+<img src="https://i.imgur.com/g1y8HTp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Now we will document our findings in incident details, providing a value, type, and comment:  <br/>
+<img src="https://i.imgur.com/NsT9cAu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
