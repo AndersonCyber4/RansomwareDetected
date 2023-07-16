@@ -37,12 +37,10 @@ In log management, search Mark's IP address. Note the two websites and their IP 
 <img src="https://i.imgur.com/g1y8HTp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Now we will document our findings in incident details, providing a value, type, and comment:  <br/>
+Thoroughly document findings in the incident details section, including values, types, and comments, to ensure precise record-keeping and facilitate efficient incident management. In conclusion, our investigation confirms this as a true positive, demonstrating the effectiveness of our detection and response capabilities in identifying and addressing legitimate security incidents:  <br/>
 <img src="https://i.imgur.com/NsT9cAu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
